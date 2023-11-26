@@ -5,6 +5,7 @@ This project is a cat and dog image classifier built using TensorFlow and Keras.
 ## Dataset
 
 The dataset used to train the classifier contains 25,000 images of cats and dogs, split into 20,000 training images and 5,000 test images. The images were collected from the internet and labeled manually.
+Link to Dataset - https://www.kaggle.com/datasets/salader/dogs-vs-cats
 
 ## Model Architecture
 
