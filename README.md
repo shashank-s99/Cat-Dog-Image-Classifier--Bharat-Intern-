@@ -1,4 +1,4 @@
-**Cat and Dog Image Classifier**
+## **Cat and Dog Image Classifier**
 
 This project is a cat and dog image classifier built using TensorFlow and Keras. The classifier can be used to identify whether an image contains a cat or a dog.
 
